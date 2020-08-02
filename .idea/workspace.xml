@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7c20c39-bc7a-4865-b585-926bce76dadf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="XSLT Stylesheet" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJFOvWGhpYRx0Hu1XFEcjpPow0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\ssm\SpringDemo1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringDemo3.demo2">
+    <configuration name="SpringDemo2.demo2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioc.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ioc.demo2" />
+      <option name="MAIN_CLASS_NAME" value="com.ioc.demo2.SpringDemo2" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo2.demo3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioc.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ioc.demo2" />
+      <option name="MAIN_CLASS_NAME" value="com.ioc.demo2.SpringDemo2" />
+      <option name="METHOD_NAME" value="demo3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioc.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ioc.demo3" />
+      <option name="MAIN_CLASS_NAME" value="com.ioc.demo3.SpringDemo3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo3.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioc.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ioc.demo3" />
+      <option name="MAIN_CLASS_NAME" value="com.ioc.demo3.SpringDemo3" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo3.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioc.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ioc.demo3" />
+      <option name="MAIN_CLASS_NAME" value="com.ioc.demo3.SpringDemo3" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDemo3.demo2" />
+        <item itemvalue="JUnit.SpringDemo3" />
+        <item itemvalue="JUnit.SpringDemo3.demo1" />
+        <item itemvalue="JUnit.SpringDemo2.demo3" />
+        <item itemvalue="JUnit.SpringDemo2.demo2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c20c39-bc7a-4865-b585-926bce76dadf" name="Default Changelist" comment="" />
+      <created>1595928259974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595928259974</updated>
+      <workItem from="1595928264991" duration="26138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1596367199631">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="455" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596360076379" />
+    <state x="479" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596367199631" />
+    <state x="2494" y="141" key="#com.intellij.ide.util.MemberChooser/63.0.1217.720/1920.0.1536.864@1920.0.1536.864" timestamp="1595941378309" />
+    <state x="2270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596166430321">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/63.0.1217.720/1920.0.1536.864@1920.0.1536.864" timestamp="1596166430321" />
+    <state width="1237" height="311" key="GridCell.Tab.0.bottom" timestamp="1596369451767">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.0.bottom/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354650020" />
+    <state width="1237" height="311" key="GridCell.Tab.0.bottom/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596369451767" />
+    <state width="1493" height="362" key="GridCell.Tab.0.bottom/63.0.1217.720/1920.0.1536.864@1920.0.1536.864" timestamp="1596167496313" />
+    <state width="1237" height="311" key="GridCell.Tab.0.center" timestamp="1596369451766">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.0.center/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354650020" />
+    <state width="1237" height="311" key="GridCell.Tab.0.center/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596369451766" />
+    <state width="1493" height="362" key="GridCell.Tab.0.center/63.0.1217.720/1920.0.1536.864@1920.0.1536.864" timestamp="1596167496312" />
+    <state width="1237" height="311" key="GridCell.Tab.0.left" timestamp="1596369451766">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.0.left/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354650020" />
+    <state width="1237" height="311" key="GridCell.Tab.0.left/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596369451766" />
+    <state width="1493" height="362" key="GridCell.Tab.0.left/63.0.1217.720/1920.0.1536.864@1920.0.1536.864" timestamp="1596167496312" />
+    <state width="1237" height="311" key="GridCell.Tab.0.right" timestamp="1596369451766">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.0.right/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354650020" />
+    <state width="1237" height="311" key="GridCell.Tab.0.right/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596369451766" />
+    <state width="1493" height="362" key="GridCell.Tab.0.right/63.0.1217.720/1920.0.1536.864@1920.0.1536.864" timestamp="1596167496312" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1596367359968">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.bottom/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354647715" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596367359968" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1596367359968">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.center/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354647715" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596367359968" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1596367359968">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.left/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354647715" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596367359968" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1596367359968">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.right/0.0.1217.720/-1920.0.1536.864@0.0.1217.720" timestamp="1596354647715" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720/-1920.0.1536.864@0.0.1280.720" timestamp="1596367359968" />
+  </component>
+</project>
